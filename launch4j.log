@@ -1,0 +1,172 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\Poisson.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.002
+Java max ver:	1.004.002_002
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\NodeJS\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\;C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps;C:\Users\Juanv\AppData\Roaming\npm;C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Juanv\AppData\Roaming\cabal\bin;C:\tools\ghc-9.6.2\bin;C:\tools\msys64;C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;D:\MinGW\bin;C:\Users\Juanv\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk1.8.0_181\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\NodeJS\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\;C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps;C:\Users\Juanv\AppData\Roaming\npm;C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Juanv\AppData\Roaming\cabal\bin;C:\tools\ghc-9.6.2\bin;C:\tools\msys64;C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;D:\MinGW\bin;C:\Users\Juanv\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk1.8.0_181\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	D:\NodeJS\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Roaming\cabal\bin\javaw.exe (not found)
+Check launcher:	C:\tools\ghc-9.6.2\bin\javaw.exe (not found)
+Check launcher:	C:\tools\msys64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin\javaw.exe (not found)
+Check launcher:	D:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_181\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk1.8.0_181\bin\javac.exe (OK)
+Version string: 1.008.000_181 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Version string: 1.008.000_181 / 64-Bit (Ignore)
+Ignore:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\18.0.2.1
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (Ignore)
+Ignore:		1.018.000_002
+Check:		SOFTWARE\JavaSoft\JDK\22.0.1
+Version string: 1.022.000_001 / 64-Bit (Ignore)
+Ignore:		1.022.000_001
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.4.2 - 1.4.2_2
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\Poisson.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.008.000_001
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\NodeJS\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\;C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps;C:\Users\Juanv\AppData\Roaming\npm;C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Juanv\AppData\Roaming\cabal\bin;C:\tools\ghc-9.6.2\bin;C:\tools\msys64;C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;D:\MinGW\bin;C:\Users\Juanv\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk1.8.0_181\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\NodeJS\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\;C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps;C:\Users\Juanv\AppData\Roaming\npm;C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Juanv\AppData\Roaming\cabal\bin;C:\tools\ghc-9.6.2\bin;C:\tools\msys64;C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;D:\MinGW\bin;C:\Users\Juanv\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk1.8.0_181\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	D:\NodeJS\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Roaming\cabal\bin\javaw.exe (not found)
+Check launcher:	C:\tools\ghc-9.6.2\bin\javaw.exe (not found)
+Check launcher:	C:\tools\msys64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin\javaw.exe (not found)
+Check launcher:	D:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_181\bin\javaw.exe (OK)
+Version string: 1.008.000_181 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\Poisson.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\Poisson.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.022.000_001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\NodeJS\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\;C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps;C:\Users\Juanv\AppData\Roaming\npm;C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Juanv\AppData\Roaming\cabal\bin;C:\tools\ghc-9.6.2\bin;C:\tools\msys64;C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;D:\MinGW\bin;C:\Users\Juanv\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk1.8.0_181\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\NodeJS\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Juanv\AppData\Local\Programs\Python\Python311\;C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps;C:\Users\Juanv\AppData\Roaming\npm;C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Juanv\AppData\Roaming\cabal\bin;C:\tools\ghc-9.6.2\bin;C:\tools\msys64;C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;D:\MinGW\bin;C:\Users\Juanv\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk1.8.0_181\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	D:\NodeJS\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Roaming\cabal\bin\javaw.exe (not found)
+Check launcher:	C:\tools\ghc-9.6.2\bin\javaw.exe (not found)
+Check launcher:	C:\tools\msys64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\Programs\oh-my-posh\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin\javaw.exe (not found)
+Check launcher:	D:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juanv\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_181\bin\javaw.exe (OK)
+Version string: 1.008.000_181 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Version string: 1.008.000_181 / 64-Bit (Ignore)
+Ignore:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\18.0.2.1
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (Ignore)
+Ignore:		1.018.000_002
+Check:		SOFTWARE\JavaSoft\JDK\22.0.1
+Version string: 1.022.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Match:		1.022.000_001
+Runtime used:	1.022.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juanv\OneDrive\Escritorio\Trabajo2\Poisson.exe"
+Args length:	62/32768 chars
+Exit code:	0
